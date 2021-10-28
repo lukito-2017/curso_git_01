@@ -1,1 +1,2 @@
-#Esse arquivo será exclusivamente para criação de Script
+var a = 10
+var b = 20
